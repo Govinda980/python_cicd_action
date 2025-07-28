@@ -1,6 +1,4 @@
-def example():
-    return 5 + 8
+def example(a, b):
+    return a + b
 
 
-def sayhelo():
-    print("Hi")
